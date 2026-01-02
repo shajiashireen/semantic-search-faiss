@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Data files (do NOT push to GitHub)
+data/*.csv
+data/*.npy
+data/*.index
